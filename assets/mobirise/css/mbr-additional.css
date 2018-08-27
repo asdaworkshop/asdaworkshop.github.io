@@ -33,3 +33,37 @@
 #form2-3 .mbr-header__text {
   font-family: 'Montserrat', sans-serif;
 }
+
+#menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-d .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
+#menu-d .mbr-navbar__items a {
+  font-size: 15px;
+}
+
+#menu-f .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-f.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-f .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-f .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
+#menu-f .mbr-navbar__items a {
+  font-size: 15px;
+}
